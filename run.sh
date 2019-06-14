@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#Generate client stub, server skeleton, client program,server program, header file, XDR routines and a Makefile
+# Generate client stub, server skeleton, client program,server program, header file, XDR routines and a Makefile
 
 echo "[+] Compiling program"
 
